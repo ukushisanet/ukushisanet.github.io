@@ -76,7 +76,7 @@ Before starting the Nomination process, send some funds from your _"Stash Accoun
 
 1. The staking menu
 
-    To start the staking process, click _"[Staking](https://polkadot.acuity.social/#/staking)"_ in the left menu bar. On the top you will find different tabs with different information and actions related to your staking operations. Click _“Account actions”_ in order to start the nomination process.
+    To start the staking process, click _"[Staking](https://polkadot.acuity.social/#/staking)"_ in the top menu bar. On the top you will find different tabs with different information and actions related to your staking operations. Click _“Account actions”_ in order to start the nomination process.
 
 2. Define your accounts
 
