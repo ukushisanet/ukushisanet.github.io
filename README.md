@@ -1,1 +1,1 @@
-Ukushisanet personal website based on Jekyll ans Github pages.
+Ukushisanet personal website based on Jekyll and Github pages.
